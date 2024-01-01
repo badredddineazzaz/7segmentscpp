@@ -19,5 +19,6 @@ Le processus se répète tant que l'utilisateur souhaite convertir de nouveaux c
 - `segmentsLogic`: Fonction déterminant la logique des segments 7-segments en fonction des bits binaires.
 - `hexDigitToBinary`: Fonction convertissant un chiffre hexadécimal en une représentation binaire.
 - `showResult`: Fonction affichant graphiquement le résultat sur un affichage 7-segments.
+![Animation](https://github.com/badredddineazzaz/7segmentscpp/assets/84666903/c19cc9f3-721c-4a1c-8700-3bcc831bbb6c)
 
 AZZAZ Badreddine
